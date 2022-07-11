@@ -2,6 +2,9 @@
   <img src="https://github.com/ikatsov/algorithmic-marketing-examples/blob/master/_resources/logo-2000x436px-gr.png" title="TensorHouse Logo">
 </p>
 
+### (+)
+편의를 위해 한국어로 번역함.
+
 ### About
 TensorHouse is a collection of reference machine learning and optimization models for enterprise operations: marketing, pricing, supply chain, and more. The goal of the project is to provide baseline implementations for industrial, research, and educational purposes.
 
